@@ -47,7 +47,7 @@ syncthreads/
    ```
 3. Start the backend server:
    ```bash
-   npm start
+   node server.js
    ```
 
 ### Frontend Setup
